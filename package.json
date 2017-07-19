@@ -1,0 +1,17 @@
+{
+  "name": "amazon-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amazon-product-api": "^0.4.3",
+    "apac": "^3.0.2",
+    "koa": "^2.2.0",
+    "koa-router": "^7.2.0"
+  }
+}
