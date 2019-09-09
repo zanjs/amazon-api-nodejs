@@ -1,5 +1,8 @@
 ## 亚马逊 api 接口调用
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/amazon-api-nodejs.svg)](https://greenkeeper.io/)
+
+
 [AWSECommerceService Doc](http://docs.aws.amazon.com/zh_cn/AWSECommerceService/latest/DG/CommonRequestParameters.html)
 
 
